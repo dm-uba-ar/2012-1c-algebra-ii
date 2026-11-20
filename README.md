@@ -1,10 +1,5 @@
 # Álgebra II — Primer cuatrimestre de 2012
 
-## Equipo docente
-
-- **Clases teóricas:** Gabriel Minian
-- **Clases prácticas:** Manuela Cerdeiro, Sergio Chouhy
-
 ## Prácticas
 
 - [Práctica 1](practica1.pdf)
@@ -20,14 +15,6 @@
 
 - [Anillos y sus categorias de representaciones](farinatisolotarsuarezalvarez.pdf)
 - [Grupos, anillos y módulos](guccione.pdf)
-
-## Bibliografía
-
-- Home » Enseñanza » Materias » Primer Cuatrimestre 2012 » Álgebra II » Álgebra II - Programa, bibliografía y notas
-- Artin, M. Algebra. Prentice Hall .
-- Atiyah-Macdonald, Introduction to Commutative Algebra. Addison-Wesley.
-- Bourbaki, Algebre.
-- Chevalley, Fundamental Concepts of Algebra. Academic Press.
 
 ## Página original
 
